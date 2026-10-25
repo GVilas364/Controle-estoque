@@ -41,11 +41,3 @@ A estrutura dos arquivos será definida durante o desenvolvimento do projeto.
 
 - Guilherme Vilas Boas Fagundes
 - Mariano de Souza Negrão
-
-## Status do projeto
-
-Em fase inicial de planejamento e desenvolvimento.
-
----
-
-Projeto acadêmico desenvolvido para o curso DSAIA — Desenvolvimento de Software Assistido por Inteligência Artificial.
