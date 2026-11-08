@@ -22,7 +22,7 @@ O projeto será desenvolvido gradualmente, com novas funcionalidades sendo adici
 ## Tecnologias
 
 - **Python:** linguagem utilizada no desenvolvimento.
-- **JSON:** formato utilizado inicialmente para armazenar os dados.
+- **SQLite:** banco de dados utilizado para armazenar as informações dos produtos.
 - **Visual Studio Code:** ambiente de desenvolvimento.
 
 ## Estrutura inicial
